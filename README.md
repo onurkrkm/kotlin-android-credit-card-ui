@@ -1,6 +1,6 @@
 ## Hi there 👋, My name is Onur
 
-## kotlin-android-credit-kard-ui
+## kotlin-android-credit-card-ui
 
 ## Project Screens
 <div align="center">
